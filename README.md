@@ -1,2 +1,2 @@
 # fringe-favourites-new
-Experiments with processing fringe favourites
+Experiments with web scraping for fringe favourites.
